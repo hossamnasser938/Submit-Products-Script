@@ -1,0 +1,141 @@
+{
+  "200010196": {
+    "image": "placeholder.png",
+    "_id": "5f8d5a2fcd87223ae142fea0",
+    "name": "Smart Electronics",
+    "parentId": "5f8d59aecd87223ae142fe9c",
+    "created_at": "2020-05-13T15:58:49.720Z",
+    "__v": 0
+  },
+  "200000369": {
+    "image": "placeholder.png",
+    "_id": "5f8d5aa9cd87223ae142fea1",
+    "name": "Car Electronics",
+    "parentId": "5f8d59aecd87223ae142fe9c",
+    "created_at": "2020-05-13T15:59:03.338Z",
+    "__v": 0
+  },
+  "4002": {
+    "image": "placeholder.png",
+    "_id": "5f8d5ad7cd87223ae142fea2",
+    "name": "Electronics Production Machinery",
+    "parentId": "5f8d59aecd87223ae142fe9c",
+    "created_at": "2020-05-13T15:59:23.520Z",
+    "__v": 0
+  },
+  "515": {
+    "image": "placeholder.png",
+    "_id": "5f8d5af7cd87223ae142fea3",
+    "name": "Electronics Stocks",
+    "parentId": "5f8d59aecd87223ae142fe9c",
+    "created_at": "2020-05-13T15:59:43.143Z",
+    "__v": 0
+  },
+
+  "200084017": {
+    "image": "placeholder.png",
+    "_id": "5f8d5bb6cd87223ae142fea4",
+    "name": "Mobile Phone Accessories",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:01:42.185Z",
+    "__v": 0
+  },
+  "200086021": {
+    "image": "placeholder.png",
+    "_id": "5f8d5bd8cd87223ae142fea5",
+    "name": "Mobile Phone Parts",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:01:56.609Z",
+    "__v": 0
+  },
+  "205838503": {
+    "image": "placeholder.png",
+    "_id": "5f8d5beacd87223ae142fea6",
+    "name": "iPhones",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:02:06.768Z",
+    "__v": 0
+  },
+  "205836002": {
+    "image": "placeholder.png",
+    "_id": "5f8d5c10cd87223ae142fea7",
+    "name": "Feature Phones",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:02:19.282Z",
+    "__v": 0
+  },
+  "200216959": {
+    "image": "placeholder.png",
+    "_id": "5f8d5c46cd87223ae142fea8",
+    "name": "Phone Bags & Cases",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:02:29.779Z",
+    "__v": 0
+  },
+  "200216621": {
+    "image": "placeholder.png",
+    "_id": "5f8d5c52cd87223ae142fea9",
+    "name": "Tablets",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:02:39.413Z",
+    "__v": 0
+  },
+  "200002361": {
+    "image": "placeholder.png",
+    "_id": "5f8d5c64cd87223ae142feaa",
+    "name": "Tablet Accessories",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:02:51.556Z",
+    "__v": 0
+  },
+  "205845408": {
+    "image": "placeholder.png",
+    "_id": "5f8d5c71cd87223ae142feab",
+    "name": "Tablet Parts",
+    "parentId": "5f8d59d2cd87223ae142fe9d",
+    "created_at": "2020-05-13T16:03:01.546Z",
+    "__v": 0
+  },
+
+  "200002395": {
+    "image": "placeholder.png",
+    "_id": "5f8d5c86cd87223ae142feac",
+    "name": "Camera & Photo",
+    "parentId": "5f8d59ebcd87223ae142fe9e",
+    "created_at": "2020-05-13T16:01:12.002Z",
+    "__v": 0
+  },
+  "200216648": {
+    "image": "placeholder.png",
+    "_id": "5f8d5c95cd87223ae142fead",
+    "name": "Sports & Action Video Cameras",
+    "parentId": "5f8d59ebcd87223ae142fe9e",
+    "created_at": "2020-05-13T16:01:28.835Z",
+    "__v": 0
+  },
+
+  "200002319": {
+    "image": "placeholder.png",
+    "_id": "5f8d5cb1cd87223ae142feae",
+    "name": "Computer Components",
+    "parentId": "5f8d5a03cd87223ae142fe9f",
+    "created_at": "2020-05-13T16:00:23.328Z",
+    "__v": 0
+  },
+  "200216562": {
+    "image": "placeholder.png",
+    "_id": "5f8d5cbfcd87223ae142feaf",
+    "name": "Computer Cables & Connectors",
+    "parentId": "5f8d5a03cd87223ae142fe9f",
+    "created_at": "2020-05-13T16:00:36.288Z",
+    "__v": 0
+  },
+  "100005089": {
+    "image": "placeholder.png",
+    "_id": "5f8d5cd9cd87223ae142feb0",
+    "name": "Industrial Computer & Accessories",
+    "parentId": "5f8d5a03cd87223ae142fe9f",
+    "created_at": "2020-05-13T16:00:50.600Z",
+    "__v": 0
+  }
+}
